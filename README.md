@@ -1,6 +1,8 @@
 # 🔢 Jogo do Número Secreto
 
-Bem-vindo ao **Jogo do Número Secreto**, um projeto simples e divertido feito com **JavaScript puro**, onde o jogador tenta adivinhar um número aleatório entre 1 e 10. Cada tentativa recebe uma dica, e o jogo garante que o número sorteado **não se repita** até que todos sejam utilizados!
+Este projeto foi desenvolvido como parte dos estudos do curso **"Lógica de Programação" da Alura**, com o objetivo de praticar conceitos fundamentais de JavaScript, manipulação de DOM e lógica condicional.
+
+Durante o aprendizado, realizei modificações e melhorias por conta própria — como a implementação de **níveis adicionais ("levels")** e controle de números já sorteados — para aplicar os conceitos de forma prática e aprofundar meu domínio da linguagem. 🚀
 
 ---
 
@@ -11,6 +13,7 @@ Bem-vindo ao **Jogo do Número Secreto**, um projeto simples e divertido feito c
 - 🔄 Botão para reiniciar o jogo
 - 🧠 Contador de tentativas com feedback personalizado
 - 🧼 Limpeza automática do campo de entrada
+- 🧩 Estrutura preparada para expansão com novos níveis
 
 ---
 
